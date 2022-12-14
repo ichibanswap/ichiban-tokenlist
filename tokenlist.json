@@ -33,6 +33,14 @@
       "decimals": 6,
       "chainId": 30,
       "logoURI": "https://app.solarbeam.io/images/tokens/usdc.png"
+    },
+    {
+      "name": "Tether USD",
+      "address": "0xef213441A85dF4d7ACbDaE0Cf78004e1E486bB96",
+      "symbol": "rUSDT",
+      "decimals": 18,
+      "chainId": 30,
+      "logoURI": "https://live.sovryn.app/static/media/usdt.a04234ee.svg"
     }
   ]
 }
