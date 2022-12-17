@@ -43,7 +43,7 @@
       "logoURI": "https://live.sovryn.app/static/media/usdt.a04234ee.svg"
     },
     {
-      "name": "Dai Stablecoin on RSK",
+      "name": "rDAI",
       "address": "0x6B1a73d547F4009A26B8485b63D7015D248AD406",
       "symbol": "rDAI",
       "decimals": 18,
