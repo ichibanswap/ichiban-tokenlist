@@ -41,14 +41,6 @@
       "decimals": 18,
       "chainId": 30,
       "logoURI": "https://live.sovryn.app/static/media/usdt.a04234ee.svg"
-    },
-    {
-      "name": "RIF Dollar on Chain",
-      "address": "0x2d919f19D4892381d58EdEbEcA66D5642ceF1A1F",
-      "symbol": "RDOC",
-      "decimals": 18,
-      "chainId": 30,
-      "logoURI": "https://raw.githubusercontent.com/rsksmart/rsk-contract-metadata/master/images/rdoc.png"
     }
   ]
 }
