@@ -16,7 +16,7 @@
       "symbol": "WRBTC",
       "decimals": 18,
       "chainId": 30,
-      "logoURI": "https://app.solarbeam.io/images/tokens/wbtc.png"
+      "logoURI": "https://raw.githubusercontent.com/rsksmart/rsk-contract-metadata/master/images/wrbtc.png"
     },
     {
       "name": "Dollar on Chain",
