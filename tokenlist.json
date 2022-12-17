@@ -43,12 +43,12 @@
       "logoURI": "https://live.sovryn.app/static/media/usdt.a04234ee.svg"
     },
     {
-      "name": "rDAI",
-      "address": "0x6B1a73d547F4009A26B8485b63D7015D248AD406",
-      "symbol": "rDAI",
+      "name": "RIF Dollar on Chain",
+      "address": "0x2d919f19D4892381d58EdEbEcA66D5642ceF1A1F",
+      "symbol": "RDOC",
       "decimals": 18,
       "chainId": 30,
-      "logoURI": "https://raw.githubusercontent.com/rsksmart/rsk-contract-metadata/master/images/dai.png"
+      "logoURI": "https://raw.githubusercontent.com/rsksmart/rsk-contract-metadata/master/images/rdoc.png"
     }
   ]
 }
