@@ -41,6 +41,14 @@
       "decimals": 18,
       "chainId": 30,
       "logoURI": "https://live.sovryn.app/static/media/usdt.a04234ee.svg"
+    },
+    {
+      "name": "RIF",
+      "address": "0x2acc95758f8b5f583470ba265eb685a8f45fc9d5",
+      "symbol": "RIF",
+      "decimals": 18,
+      "chainId": 30,
+      "logoURI": "https://raw.githubusercontent.com/rsksmart/rsk-contract-metadata/master/images/rif.png"
     }
   ]
 }
